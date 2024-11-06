@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\kalk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\views\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\views\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\viewmodels\\calculatorpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\viewmodels\\calculatorpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\views\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\views\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|c:\\users\\opilane\\source\\repos\\kalk\\kalk\\kalk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A99C3A1-9DA9-45C8-BB14-2D9505251B9E}|kalk\\kalk.csproj|solutionrelative:kalk\\kalk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "kalk\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "kalk\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T10:25:25.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\ViewModels\\CalculatorPageViewModel.cs",
+              "RelativeDocumentMoniker": "kalk\\ViewModels\\CalculatorPageViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\ViewModels\\CalculatorPageViewModel.cs",
+              "RelativeToolTip": "kalk\\ViewModels\\CalculatorPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:46:45.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Views\\CalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "kalk\\Views\\CalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Views\\CalculatorPage.xaml.cs",
+              "RelativeToolTip": "kalk\\Views\\CalculatorPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:44:10.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\App.xaml.cs",
+              "RelativeDocumentMoniker": "kalk\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\App.xaml.cs",
+              "RelativeToolTip": "kalk\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:29:52.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Views\\CalculatorPage.xaml",
+              "RelativeDocumentMoniker": "kalk\\Views\\CalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Views\\CalculatorPage.xaml",
+              "RelativeToolTip": "kalk\\Views\\CalculatorPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T09:44:03.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "kalk\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\MauiProgram.cs",
+              "RelativeToolTip": "kalk\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:34:47.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\App.xaml",
+              "RelativeDocumentMoniker": "kalk\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\App.xaml",
+              "RelativeToolTip": "kalk\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T08:28:35.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kalk",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\kalk.csproj",
+              "RelativeDocumentMoniker": "kalk\\kalk.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\kalk.csproj",
+              "RelativeToolTip": "kalk\\kalk.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T08:22:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\opilane\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\readme.txt",
+              "ToolTip": "C:\\Users\\opilane\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.ui.xaml\\2.8.2\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-06T08:23:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "kalk\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\kalk\\kalk\\Properties\\launchSettings.json",
+              "RelativeToolTip": "kalk\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T08:21:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
